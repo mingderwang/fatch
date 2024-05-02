@@ -1,0 +1,2 @@
+export URL=https://example.com/
+export XPATH=/html/body/div[3]/main/div//section/div[1]/ul
